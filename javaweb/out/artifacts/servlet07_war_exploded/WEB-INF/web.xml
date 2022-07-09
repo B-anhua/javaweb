@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd"
+         version="5.0">
+
+   <!-- <welcome-file-list>
+        <welcome-file>login.html</welcome-file>
+    </welcome-file-list>-->
+
+  <!--  <welcome-file-list>
+&lt;!&ndash;        //路径不需要以“/”开始，并且路径默认从Webappde 根目录开始&ndash;&gt;
+        <welcome-file>page1/page2/page.html</welcome-file>
+        <welcome-file>login.html</welcome-file>
+&lt;!&ndash;        可也设置多个越在上面的优先级越高&ndash;&gt;
+    </welcome-file-list>-->
+    <!--配置欢迎页面-->
+    <welcome-file-list>
+        <welcome-file>welcome</welcome-file>
+    </welcome-file-list>
+    <servlet>
+        <servlet-name>welcomeServlet</servlet-name>
+        <servlet-class>com.bjpowernode.javaweb.servlet.WelcomeServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>welcomeServlet</servlet-name>
+        <url-pattern>/welcome</url-pattern>
+    </servlet-mapping>
+</web-app>
