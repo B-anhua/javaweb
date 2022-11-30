@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8511a0ae-66e3-4be3-b50d-550b1a6e6d69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/artifacts/servlet01_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/artifacts/servlet04_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/artifacts/servlet05_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/artifacts/servlet06_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/artifacts/servlet07_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/artifacts/servlet08_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/artifacts/servlet09_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/javaweb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/mysql_connector_java_8_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet04/servlet04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet04/src/com/powernode/javaweb/servlet/AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet04/src/com/powernode/javaweb/servlet/BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet04/src/com/powernode/javaweb/servlet/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet04/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet04/web/commen/commen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet04/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet08/src/com/bjpowernode/javaweb/servlet/AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet08/src/com/bjpowernode/javaweb/servlet/BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet08/web/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/com/bjpowernode/template1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/com/bjpowernode/template1/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/com/bjpowernode/template2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/com/bjpowernode/template2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/com/bjpowernode/template2/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/com/bjpowernode/template2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/template.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bjpowernode/javaweb/servlet/StudentServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bjpowernode/javaweb/servlet/StudentServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servlet05/servlet05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet05/servlet05.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servlet06/servlet06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet06/servlet06.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servlet07/servlet07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet07/servlet07.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servlet08/servlet08.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet08/servlet08.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servlet08/src/com/bjpowernode/javaweb/servlet/RequestTestServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet08/src/com/bjpowernode/javaweb/servlet/RequestTestServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servlet08/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet08/web/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../dev/Maven-work/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="C:\dev\Maven-work\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IGyaVpGhuPHfhYt5X5qTViJ9Pn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/71439/IdeaProjects/javaweb/javaweb",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8511a0ae-66e3-4be3-b50d-550b1a6e6d69" name="Changes" comment="" />
+      <created>1669822277464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669822277464</updated>
+      <workItem from="1669822279811" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
